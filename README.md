@@ -72,5 +72,5 @@ Open `index.html` in your browser.
 
 Hemant Chauhan
 
----
-```<img width="1536" height="1024" alt="cardhtml" src="https://github.com/user-attachments/assets/c0718397-37dc-42bf-a058-668faa671fcc" />
+<img width="864" height="627" alt="image" src="https://github.com/user-attachments/assets/348dc836-fb74-475d-9df5-86a2be1ca3a2" />
+
